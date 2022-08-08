@@ -6,7 +6,7 @@ export class CoffeesService {
   private coffees: Coffee[] = [
     {
       id: 1,
-      name: 'Shpwreck Roast',
+      name: 'Shipwreck Roast',
       brand: 'Buddy Brew',
       flavors: ['Chocolate', 'vanilla'],
     },
